@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Swaleha Parvin</h1>
 <h3 align="center">A passionate Data and AI enthusiast</h3>
 
-- 🔭 I'm currently working on **building AI agents**
+- 🔭 I'm currently working on **building AI agents and SafeGuardLLN**
 
 - 🌱 I'm currently learning **Agentic frameworks**
 
-- 👯 I'm looking to collaborate on **Data Science projects**
+- 👯 I'm looking to collaborate on **Ml and AI security projects**
 
 - 📝 I regularly write articles on [https://sheikhswaleha17.medium.com/](https://sheikhswaleha17.medium.com/)
 
-- 💬 Ask me about **Cybersecurity**
-
-- 📫 How to reach me **swalehawrites@gmail.com**
+- 📫 How to reach me **swaleha.parveen.ae@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
